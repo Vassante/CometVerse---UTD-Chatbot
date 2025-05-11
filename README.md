@@ -1,4 +1,4 @@
-# CometVerse---UTD-Chatbot
+# CometVerse---UTD-Chatbot--- RAG-based LLM
 A RAG Chatbot to answer queries from information available in UTD (JSOM) sites.  
   
   Web Scraping - Selenium, BeautifulSoup, Scrapy  
