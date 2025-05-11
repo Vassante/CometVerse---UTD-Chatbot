@@ -1,5 +1,6 @@
 # CometVerse---UTD-Chatbot
 A RAG Chatbot to answer queries from information available in UTD (JSOM) sites.  
+  
 Web Scraping - Selenium, BeautifulSoup, Scrapy  
 Embedding Model - text-embedding-ada-002  
 Vector Database: ChromaDB  
